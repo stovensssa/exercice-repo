@@ -8,6 +8,7 @@ Sparta = conflict;
 We resolved the SPARTA!!
 
 There is nothing better than a smell of nepalm early in the morining...
+This are changes in origin/master branch man 
 
 
 
