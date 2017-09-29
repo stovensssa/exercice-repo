@@ -6,7 +6,6 @@ string sparta = null;
 This is not a conflict... this is SPARTA!!!! 
 Sparta = conflict; 
 We resolved the SPARTA!!
-This is change with Git bash and I think I like it more.
-
+There is nothing better than a smell of nepalm early in the morining...
 
 
