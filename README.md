@@ -8,6 +8,7 @@ Sparta = conflict;
 We resolved the SPARTA!!
 
 There is nothing better than a smell of nepalm early in the morining...
+Changes in developer branch are cool man ... they are just cool dude...
 
 
 
